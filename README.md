@@ -1,6 +1,10 @@
-# K'nori Bone 🦴
+### K'nori Bone 🦴
 
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
+
+# Languages I work well with
+
+Python, C++, 
 
 # How to Contact Me
 
