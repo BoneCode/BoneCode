@@ -4,7 +4,11 @@ A digital artist with a passion for Front-End Development and a desire to change
 
 ### Languages I work well with
 
-Python, C++, 
+Python, C++, React Native, HTML, CSS, JavaScript
+
+### Languages I've had experience with
+
+Rust, Go, smlnj, Swift, SQL
 
 ### How to Contact Me
 
