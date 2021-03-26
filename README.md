@@ -3,8 +3,11 @@
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
 
 🔭 I’m currently working on: [MEET]
+
 🌱 I’m currently learning: HTML, CSS & JavaScript.
+
 🤔 I’m looking for help with: UX/UI Design.
+
 🏈 Fun fact: I played College Football for 4 years.
 
 
