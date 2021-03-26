@@ -1,4 +1,4 @@
-### K'nori Bone 🦴
+# K'nori Bone 🦴
 
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
 
