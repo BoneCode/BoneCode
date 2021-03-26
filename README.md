@@ -2,9 +2,10 @@
 
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
 
-### Languages I work well with
+### Languages
 
 Programming: Python, C++, Rust, Go, smlnj & SQL.
+
 Development: HTML, CSS, JavaScript, React Native & Swift.
 
 ### How to Contact Me
