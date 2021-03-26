@@ -4,11 +4,9 @@ A digital artist with a passion for Front-End Development and a desire to change
 
 # How to Contact Me
 
-knoribone@gmail.com
+Email: knoribone@gmail.com | [LinkedIn] | [My Digital Art Portfolio]
 
-[LinkedIn]
 
-[My Digital Art Portfolio]
 
   [LinkedIn]: <https://www.linkedin.com/in/knoribone/>
   [My Digital Art Portfolio]: <https://bonethugtheplug.com/>
