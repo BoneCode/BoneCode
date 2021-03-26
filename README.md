@@ -1,4 +1,20 @@
-### Hi there 👋
+# K'nori Bone 🦴
+
+A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
+
+# How to Contact Me
+
+[Email]
+[LinkedIn]
+[My Digital Art Portfolio]
+
+  [Email]: <knoribone@gmail.com/>
+  [LinkedIn]: <https://www.linkedin.com/in/knoribone/>
+  [My Digital Art Portfolio]: <https://bonethugtheplug.com/>
+
+
+
+
 
 <!--
 **BoneCode/BoneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +27,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I played College Football for 4 years. 
 -->
