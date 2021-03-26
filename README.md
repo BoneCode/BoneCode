@@ -2,6 +2,12 @@
 
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
 
+🔭 I’m currently working on: [MEET]
+🌱 I’m currently learning: HTML, CSS & JavaScript.
+🤔 I’m looking for help with: UX/UI Design.
+🏈 Fun fact: I played College Football for 4 years.
+
+
 ### Languages
 
 Programming: Python, C++, Rust, Go, smlnj & SQL.
@@ -16,6 +22,7 @@ Email: knoribone@gmail.com | [LinkedIn] | [My Digital Art Portfolio]
 
   [LinkedIn]: <https://www.linkedin.com/in/knoribone/>
   [My Digital Art Portfolio]: <https://bonethugtheplug.com/>
+  [MEET]: <https://apps.apple.com/us/app/meet-navigate-new-connections/id1553323525/>
 
 
 
