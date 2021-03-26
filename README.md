@@ -4,7 +4,7 @@ A digital artist with a passion for Front-End Development and a desire to change
 
 # How to Contact Me
 
-Email: knoribone@gmail.com
+knoribone@gmail.com
 
 [LinkedIn]
 
