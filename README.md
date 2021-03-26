@@ -2,11 +2,11 @@
 
 A digital artist with a passion for Front-End Development and a desire to change the way the world interacts with technology. 
 
-# Languages I work well with
+### Languages I work well with
 
 Python, C++, 
 
-# How to Contact Me
+### How to Contact Me
 
 Email: knoribone@gmail.com | [LinkedIn] | [My Digital Art Portfolio]
 
